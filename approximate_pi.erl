@@ -1,4 +1,4 @@
--module(easy).
+-module(approximate_pi).
 -export([get_pi/1,approximate_pi/1]).
 
 
